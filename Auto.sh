@@ -5,8 +5,8 @@
 set -e
 
 # === НАСТРОЙКИ ===
-PANEL_DOMAIN="panel.example.com" # <-- Замените на ваш домен!
-EMAIL="admin@example.com"         # <-- Замените на ваш email для Let's Encrypt!
+PANEL_DOMAIN="148.253.209.153" # <-- Замените на ваш домен!
+EMAIL="egord2799@gmail.com"         # <-- Замените на ваш email для Let's Encrypt!
 
 # === ОБНОВЛЕНИЕ СИСТЕМЫ ===
 echo "Обновление системы..."
